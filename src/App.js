@@ -46,7 +46,7 @@ const App = () => {
                     </div>
                 </div>
                 <footer>
-                    <p>&copy; 2024 Company Name. All Rights Reserved.</p>
+                    <p>&copy; 2024. All Rights Reserved.</p>
                 </footer>
             </div>
         </AppProvider>
